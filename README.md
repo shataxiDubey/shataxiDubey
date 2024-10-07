@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Brick Kilns detection from Satellite Imagery.
 - 🌱 I’m currently learning Computer Vision.
 - 👯 I’m looking to collaborate on solving Sustainability Problems using ML.
+- 📫 How to reach me: Please visit my website https://shataxidubey.github.io/
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: Please visit my website https://shataxidubey.github.io/
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact:  -->
 
